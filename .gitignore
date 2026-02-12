@@ -1,0 +1,16 @@
+# Node / React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.expo/
+android/
+ios/
+
+# Python / Backend
+__pycache__/
+*.pyc
+.env
+
+# Misc
+.DS_Store
