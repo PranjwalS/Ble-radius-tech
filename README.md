@@ -49,3 +49,11 @@ This project is an experimental platform combining hardware (BLE/UWB beacons), a
 - OS limitations require phones to actively broadcast (foreground service) or use OS-supported region monitoring for scanning.
 - BLE used for compatibility; UWB can be adopted for newer devices requiring precise distance tracking.
 - Focus on experimental use-cases: museums, offices, conferences, or asset tracking inside buildings.
+
+
+
+
+
+
+## Orders for the ESP32:
+- ...
